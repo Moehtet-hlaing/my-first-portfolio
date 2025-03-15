@@ -20,12 +20,12 @@ import { VscVscode,
 import { FaGitAlt, FaXTwitter, FaDribbble } from "react-icons/fa6";
 import { MdGroups3 } from "react-icons/md";
 
-import PROJECT_IMG_1 from "../assets/projects-images/project1.png";
-import PROJECT_IMG_2 from "../assets/projects-images/project2.png";
-import PROJECT_IMG_3 from "../assets/projects-images/project3.png";
-import PROJECT_IMG_4 from "../assets/projects-images/project4.png";
-import PROJECT_IMG_5 from "../assets/projects-images/project5.png";
-import PROJECT_IMG_6 from "../assets/projects-images/project6.png";
+import PROJECT_IMG_1 from "../assets/projects-images/project1.webp";
+import PROJECT_IMG_2 from "../assets/projects-images/project2.webp";
+import PROJECT_IMG_3 from "../assets/projects-images/project3.webp";
+import PROJECT_IMG_4 from "../assets/projects-images/project4.webp";
+import PROJECT_IMG_5 from "../assets/projects-images/project5.webp";
+import PROJECT_IMG_6 from "../assets/projects-images/project6.webp";
 
 
 export const MENU_LINKS = [
